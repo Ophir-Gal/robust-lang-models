@@ -1,2 +1,2 @@
 # robust-lang-models
-Final Project for the graduate class Privacy and Ethics in Data Management Systems (CMSC828E)
+Code for the final project for the graduate class Privacy and Ethics in Data Management Systems (CMSC828E)
